@@ -1,0 +1,38 @@
+.side{
+    width: 20%;
+    margin: 0px auto;
+    position: fixed;
+    left: 0;
+    
+   
+    
+    
+    .caption{
+        width: 100%;
+        text-align: center;
+        font-weight: 500;
+        margin-top: 20px;
+        margin-left: 20px;
+        margin-bottom: 20px;
+    }
+    
+    ul{
+        list-style-type: none;
+        width: 100%;
+    }
+    
+    li{
+        margin: auto;
+        padding: 10px 0px;
+        width: 100%;
+        border-bottom: 1px solid rgb(212, 201, 201);
+        transition: background-color .2s linear;
+        
+        &:hover{
+            background-color:#c9bfa1;
+            cursor: pointer;
+        }
+    }
+    
+   
+}

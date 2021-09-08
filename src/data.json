@@ -1,0 +1,86 @@
+{
+    "data":[
+        {
+            "id":1,
+            "model": "Samsung",
+            "description": "Galaxy j7 (SM-J730FM) 2017 3/16Gb" ,
+            "price": 2650,
+            "img": "https://i.allo.ua/media/catalog/product/cache/1/image/265x/9df78eab33525d08d6e5fb8d27136e95/s/a/samsung_galaxy_j7_2017_duos_16gb_black.jpg"
+        },
+        {
+            "id":2,
+            "model": "Samsung",
+            "description": "Galaxy A52 4/128GB black (SM-A525FLVDSEK)" ,
+            "price": 9499,
+            "img": "https://cdn.27.ua/499/cc/b0/3198128_9.jpeg"
+        },
+
+        {
+            "id":3,
+            "model": "Samsung",
+            "description": "Galaxy S20 FE 2021 G780G 128 GB black" ,
+            "price": 16499,
+            "img": "https://samsungshop.com.ua/res/cache/images/88/1a/881adc8df441837579ce6319742088f5/cae7cc6aaeb96e6af3326be3aa16405e.png"
+        },
+
+        {
+            "id":4,
+            "model": "Lenovo",
+            "description": "Legion Pro 12Gb/128Gb Blue (L79031)" ,
+            "price": 14999,
+            "img": "https://content1.rozetka.com.ua/goods/images/big/192140009.jpg"
+        },
+
+        
+        {
+            "id":5,
+            "model": "Lenovo",
+            "description": "K12 Pro 4/64GB Green" ,
+            "price": 5699,
+            "img": "https://content1.rozetka.com.ua/goods/images/big/182219418.jpg"
+        },
+
+        {
+            "id":6,
+            "model": "Lenovo",
+            "description": "K5 Plus 2/16Gb" ,
+            "price": 1432,
+            "img": "https://boo.ua/upload/iblock/5b3/5b38db79c0c381ee7506cc90dae1ae85.jpg"
+        },
+
+        {
+            "id":7,
+            "model": "Apple",
+            "description": "IPHONE XR 128GB BLACK" ,
+            "price": 14100,
+            "img": "https://luxmobile.com.ua/image/cache/catalog/foto/iphonexr/01-1000x1340.jpg"
+        },
+
+        {
+            "id":8,
+            "model": "Apple",
+            "description": "IPHONE XR 128GB BLACK" ,
+            "price": 14100,
+            "img": "https://luxmobile.com.ua/image/cache/catalog/foto/iphonexr/01-1000x1340.jpg"
+        },
+        
+        {
+            "id":9,
+            "model": "Huawei",
+            "description": "P40 Lite 6/128 Gb Dual Sim Sakura Pink " ,
+            "price": 6999,
+            "img": "https://cdn.comfy.ua/media/catalog/product/cache/5/image/1440x1080/62defc7f46f3fbfc8afcd112227d1181/h/u/huawei_p40_lite_6_128gb_013_1_.jpg"
+        },
+
+        {
+            "id":10,
+            "model": "LG",
+            "description": "K61 4/128Gb Titanium Dual Sim " ,
+            "price": 6890,
+            "img": "https://i.allo.ua/media/catalog/product/cache/1/image/524x494/602f0fa2c1f0d1ba5e241f914e856ff9/l/g/lg_k61_titanium_dual_sim_0.jpg"
+        }
+
+
+        
+    ]
+}
